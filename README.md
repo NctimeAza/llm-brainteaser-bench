@@ -296,7 +296,7 @@ GPT 5.5 小概率能意识到。
 </details>
 
 
-可稳定通过的模型：Mimo-V2.5 Pro、Gemini 3.5 Pro
+可稳定通过的模型：Mimo-V2.5 Pro、Gemini 3.5 Pro、GPT 5.5/5.6
 
 ### 10. 我儿子问题
 
